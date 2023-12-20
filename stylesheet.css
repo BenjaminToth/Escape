@@ -1,0 +1,10 @@
+#result img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto; /* Center the image */
+}
+
+body {
+    margin: 20px; /* Adjust the value as needed */
+}
